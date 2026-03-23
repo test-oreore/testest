@@ -9,3 +9,7 @@
 ## PR テスト（別アカウント）
 
 `konchangakita-devrev` が `gh auth login` でアクティブな状態での PR 作成確認。
+
+## ISS-13
+
+タイトルに `ISS-13` を含む PR のテスト用。
