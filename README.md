@@ -5,3 +5,7 @@
 ## PR テスト
 
 `test/pr-workflow` ブランチからの Pull Request 作成確認用。
+
+## PR テスト（別アカウント）
+
+`konchangakita-devrev` が `gh auth login` でアクティブな状態での PR 作成確認。
